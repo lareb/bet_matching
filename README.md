@@ -16,3 +16,7 @@ $>ruby bet_matching.rb
 # How to update sample bets
   ## Refer bet_matching.rb, all_matches method and change following parameters
   GenerateBets.new(matches, max_markets, bets)
+
+
+# TODOs
+  ## Benchmark testing
