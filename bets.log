@@ -1,0 +1,376 @@
+# Logfile created on 2021-02-07 03:09:22 +0530 by logger.rb/61378
+I, [2021-02-07T03:09:22.152594 #52186]  INFO -- : 2021-02-07 03:09:22 +0530============
+I, [2021-02-07T03:09:22.153044 #52186]  INFO -- : [
+  {
+    "id": 100,
+    "name": "SCT vs INDS baseball tournament",
+    "markets": [
+      {
+        "id": 200,
+        "title": "market_0",
+        "bets": [
+          {
+            "id": 30000,
+            "user_id": 15,
+            "bet_amount": 35,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 35,
+            "status": "not_matched"
+          },
+          {
+            "id": 30001,
+            "user_id": 23,
+            "bet_amount": 98,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 98,
+            "status": "not_matched"
+          },
+          {
+            "id": 30002,
+            "user_id": 90,
+            "bet_amount": 44,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 44,
+            "status": "not_matched"
+          },
+          {
+            "id": 30003,
+            "user_id": 67,
+            "bet_amount": 98,
+            "type": "lay",
+            "odds": 2.6,
+            "unmatched_amount": 98,
+            "status": "not_matched"
+          },
+          {
+            "id": 30004,
+            "user_id": 66,
+            "bet_amount": 23,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 23,
+            "status": "not_matched"
+          },
+          {
+            "id": 30005,
+            "user_id": 60,
+            "bet_amount": 58,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 58,
+            "status": "not_matched"
+          },
+          {
+            "id": 30006,
+            "user_id": 62,
+            "bet_amount": 69,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 69,
+            "status": "not_matched"
+          },
+          {
+            "id": 30007,
+            "user_id": 2,
+            "bet_amount": 96,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 96,
+            "status": "not_matched"
+          },
+          {
+            "id": 30008,
+            "user_id": 33,
+            "bet_amount": 89,
+            "type": "back",
+            "odds": 2.5,
+            "unmatched_amount": 89,
+            "status": "not_matched"
+          },
+          {
+            "id": 30009,
+            "user_id": 26,
+            "bet_amount": 37,
+            "type": "lay",
+            "odds": 2.6,
+            "unmatched_amount": 37,
+            "status": "not_matched"
+          },
+          {
+            "id": 30010,
+            "user_id": 12,
+            "bet_amount": 70,
+            "type": "back",
+            "odds": 2.5,
+            "unmatched_amount": 70,
+            "status": "not_matched"
+          },
+          {
+            "id": 30011,
+            "user_id": 80,
+            "bet_amount": 77,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 77,
+            "status": "not_matched"
+          },
+          {
+            "id": 30012,
+            "user_id": 95,
+            "bet_amount": 77,
+            "type": "back",
+            "odds": 2.5,
+            "unmatched_amount": 77,
+            "status": "not_matched"
+          },
+          {
+            "id": 30013,
+            "user_id": 52,
+            "bet_amount": 12,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 12,
+            "status": "not_matched"
+          },
+          {
+            "id": 30014,
+            "user_id": 22,
+            "bet_amount": 34,
+            "type": "back",
+            "odds": 2.4,
+            "unmatched_amount": 34,
+            "status": "not_matched"
+          },
+          {
+            "id": 30015,
+            "user_id": 47,
+            "bet_amount": 30,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 30,
+            "status": "not_matched"
+          },
+          {
+            "id": 30016,
+            "user_id": 82,
+            "bet_amount": 74,
+            "type": "lay",
+            "odds": 2.6,
+            "unmatched_amount": 74,
+            "status": "not_matched"
+          },
+          {
+            "id": 30017,
+            "user_id": 87,
+            "bet_amount": 19,
+            "type": "lay",
+            "odds": 2.5,
+            "unmatched_amount": 19,
+            "status": "not_matched"
+          },
+          {
+            "id": 30018,
+            "user_id": 99,
+            "bet_amount": 25,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 25,
+            "status": "not_matched"
+          },
+          {
+            "id": 30019,
+            "user_id": 61,
+            "bet_amount": 62,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 62,
+            "status": "not_matched"
+          },
+          {
+            "id": 30020,
+            "user_id": 22,
+            "bet_amount": 99,
+            "type": "back",
+            "odds": 2.5,
+            "unmatched_amount": 99,
+            "status": "not_matched"
+          },
+          {
+            "id": 30021,
+            "user_id": 91,
+            "bet_amount": 18,
+            "type": "lay",
+            "odds": 2.6,
+            "unmatched_amount": 18,
+            "status": "not_matched"
+          },
+          {
+            "id": 30022,
+            "user_id": 35,
+            "bet_amount": 43,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 43,
+            "status": "not_matched"
+          },
+          {
+            "id": 30023,
+            "user_id": 44,
+            "bet_amount": 67,
+            "type": "lay",
+            "odds": 2.5,
+            "unmatched_amount": 67,
+            "status": "not_matched"
+          },
+          {
+            "id": 30024,
+            "user_id": 24,
+            "bet_amount": 30,
+            "type": "lay",
+            "odds": 2.5,
+            "unmatched_amount": 30,
+            "status": "not_matched"
+          },
+          {
+            "id": 30025,
+            "user_id": 91,
+            "bet_amount": 29,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 29,
+            "status": "not_matched"
+          },
+          {
+            "id": 30026,
+            "user_id": 59,
+            "bet_amount": 20,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 20,
+            "status": "not_matched"
+          },
+          {
+            "id": 30027,
+            "user_id": 59,
+            "bet_amount": 63,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 63,
+            "status": "not_matched"
+          },
+          {
+            "id": 30028,
+            "user_id": 33,
+            "bet_amount": 21,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 21,
+            "status": "not_matched"
+          },
+          {
+            "id": 30029,
+            "user_id": 10,
+            "bet_amount": 79,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 79,
+            "status": "not_matched"
+          },
+          {
+            "id": 30030,
+            "user_id": 27,
+            "bet_amount": 82,
+            "type": "back",
+            "odds": 2.4,
+            "unmatched_amount": 82,
+            "status": "not_matched"
+          },
+          {
+            "id": 30031,
+            "user_id": 67,
+            "bet_amount": 33,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 33,
+            "status": "not_matched"
+          },
+          {
+            "id": 30032,
+            "user_id": 30,
+            "bet_amount": 74,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 74,
+            "status": "not_matched"
+          },
+          {
+            "id": 30033,
+            "user_id": 66,
+            "bet_amount": 35,
+            "type": "back",
+            "odds": 2.4,
+            "unmatched_amount": 35,
+            "status": "not_matched"
+          },
+          {
+            "id": 30034,
+            "user_id": 48,
+            "bet_amount": 87,
+            "type": "back",
+            "odds": 2.6,
+            "unmatched_amount": 87,
+            "status": "not_matched"
+          },
+          {
+            "id": 30035,
+            "user_id": 50,
+            "bet_amount": 83,
+            "type": "back",
+            "odds": 2.6,
+            "unmatched_amount": 83,
+            "status": "not_matched"
+          },
+          {
+            "id": 30036,
+            "user_id": 37,
+            "bet_amount": 93,
+            "type": "back",
+            "odds": 2.6,
+            "unmatched_amount": 93,
+            "status": "not_matched"
+          },
+          {
+            "id": 30037,
+            "user_id": 13,
+            "bet_amount": 28,
+            "type": "lay",
+            "odds": 2.4,
+            "unmatched_amount": 28,
+            "status": "not_matched"
+          },
+          {
+            "id": 30038,
+            "user_id": 79,
+            "bet_amount": 10,
+            "type": "back",
+            "odds": 2.3,
+            "unmatched_amount": 10,
+            "status": "not_matched"
+          },
+          {
+            "id": 30039,
+            "user_id": 31,
+            "bet_amount": 66,
+            "type": "lay",
+            "odds": 2.3,
+            "unmatched_amount": 66,
+            "status": "not_matched"
+          }
+        ]
+      }
+    ]
+  }
+]
