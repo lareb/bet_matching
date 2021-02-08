@@ -1,7 +1,7 @@
 # A test script to generate sample bet data and run matching algorythm
 ## Install following gems
   $>gem install awesome_print  
-  $>gem install logger
+  $>gem install logger  
   $>gem install whenever
 
 ## Run following file
