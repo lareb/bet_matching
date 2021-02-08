@@ -1,0 +1,906 @@
+# Logfile created on 2021-02-09 00:02:01 +0530 by logger.rb/61378
+I, [2021-02-09T00:02:01.451698 #17564]  INFO -- : @@@@@@@@@@@@aus vs INDS cricket tournament@@@@@@@@@@@@@@@
+I, [2021-02-09T00:02:01.451794 #17564]  INFO -- : ==========market_0================
+I, [2021-02-09T00:02:01.451941 #17564]  INFO -- : 
+-------------------
+17 back bets in total
+Total back amount = 1015
+
+[
+  {
+    "id": 30000,
+    "user_id": 85,
+    "bet_amount": 70,
+    "type": "back",
+    "odds": 2.5,
+    "unmatched_amount": 70,
+    "status": "not_matched"
+  },
+  {
+    "id": 30002,
+    "user_id": 27,
+    "bet_amount": 20,
+    "type": "back",
+    "odds": 2.6,
+    "unmatched_amount": 20,
+    "status": "not_matched"
+  },
+  {
+    "id": 30004,
+    "user_id": 5,
+    "bet_amount": 69,
+    "type": "back",
+    "odds": 2.3,
+    "unmatched_amount": 69,
+    "status": "not_matched"
+  },
+  {
+    "id": 30005,
+    "user_id": 39,
+    "bet_amount": 79,
+    "type": "back",
+    "odds": 2.3,
+    "unmatched_amount": 79,
+    "status": "not_matched"
+  },
+  {
+    "id": 30007,
+    "user_id": 3,
+    "bet_amount": 56,
+    "type": "back",
+    "odds": 2.5,
+    "unmatched_amount": 56,
+    "status": "not_matched"
+  },
+  {
+    "id": 30010,
+    "user_id": 26,
+    "bet_amount": 58,
+    "type": "back",
+    "odds": 2.6,
+    "unmatched_amount": 58,
+    "status": "not_matched"
+  },
+  {
+    "id": 30014,
+    "user_id": 32,
+    "bet_amount": 77,
+    "type": "back",
+    "odds": 2.6,
+    "unmatched_amount": 77,
+    "status": "not_matched"
+  },
+  {
+    "id": 30016,
+    "user_id": 12,
+    "bet_amount": 41,
+    "type": "back",
+    "odds": 2.5,
+    "unmatched_amount": 41,
+    "status": "not_matched"
+  },
+  {
+    "id": 30018,
+    "user_id": 17,
+    "bet_amount": 32,
+    "type": "back",
+    "odds": 2.3,
+    "unmatched_amount": 32,
+    "status": "not_matched"
+  },
+  {
+    "id": 30021,
+    "user_id": 53,
+    "bet_amount": 25,
+    "type": "back",
+    "odds": 2.3,
+    "unmatched_amount": 25,
+    "status": "not_matched"
+  },
+  {
+    "id": 30024,
+    "user_id": 86,
+    "bet_amount": 66,
+    "type": "back",
+    "odds": 2.4,
+    "unmatched_amount": 66,
+    "status": "not_matched"
+  },
+  {
+    "id": 30027,
+    "user_id": 91,
+    "bet_amount": 49,
+    "type": "back",
+    "odds": 2.3,
+    "unmatched_amount": 49,
+    "status": "not_matched"
+  },
+  {
+    "id": 30029,
+    "user_id": 19,
+    "bet_amount": 83,
+    "type": "back",
+    "odds": 2.4,
+    "unmatched_amount": 83,
+    "status": "not_matched"
+  },
+  {
+    "id": 30030,
+    "user_id": 93,
+    "bet_amount": 66,
+    "type": "back",
+    "odds": 2.6,
+    "unmatched_amount": 66,
+    "status": "not_matched"
+  },
+  {
+    "id": 30031,
+    "user_id": 81,
+    "bet_amount": 95,
+    "type": "back",
+    "odds": 2.5,
+    "unmatched_amount": 95,
+    "status": "not_matched"
+  },
+  {
+    "id": 30034,
+    "user_id": 24,
+    "bet_amount": 84,
+    "type": "back",
+    "odds": 2.4,
+    "unmatched_amount": 84,
+    "status": "not_matched"
+  },
+  {
+    "id": 30036,
+    "user_id": 98,
+    "bet_amount": 45,
+    "type": "back",
+    "odds": 2.6,
+    "unmatched_amount": 45,
+    "status": "not_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452084 #17564]  INFO -- : 
+-------------------
+23 lay bets in total
+Total lay amount = 1131
+
+[
+  {
+    "id": 30001,
+    "user_id": 18,
+    "bet_amount": 21,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 21,
+    "status": "not_matched"
+  },
+  {
+    "id": 30003,
+    "user_id": 61,
+    "bet_amount": 62,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 62,
+    "status": "not_matched"
+  },
+  {
+    "id": 30006,
+    "user_id": 95,
+    "bet_amount": 19,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 19,
+    "status": "not_matched"
+  },
+  {
+    "id": 30008,
+    "user_id": 51,
+    "bet_amount": 24,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 24,
+    "status": "not_matched"
+  },
+  {
+    "id": 30009,
+    "user_id": 69,
+    "bet_amount": 96,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 96,
+    "status": "not_matched"
+  },
+  {
+    "id": 30011,
+    "user_id": 19,
+    "bet_amount": 78,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 78,
+    "status": "not_matched"
+  },
+  {
+    "id": 30012,
+    "user_id": 81,
+    "bet_amount": 23,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 23,
+    "status": "not_matched"
+  },
+  {
+    "id": 30013,
+    "user_id": 2,
+    "bet_amount": 47,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 47,
+    "status": "not_matched"
+  },
+  {
+    "id": 30015,
+    "user_id": 94,
+    "bet_amount": 17,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 17,
+    "status": "not_matched"
+  },
+  {
+    "id": 30017,
+    "user_id": 36,
+    "bet_amount": 18,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 18,
+    "status": "not_matched"
+  },
+  {
+    "id": 30019,
+    "user_id": 72,
+    "bet_amount": 72,
+    "type": "lay",
+    "odds": 2.6,
+    "unmatched_amount": 72,
+    "status": "not_matched"
+  },
+  {
+    "id": 30020,
+    "user_id": 4,
+    "bet_amount": 34,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 34,
+    "status": "not_matched"
+  },
+  {
+    "id": 30022,
+    "user_id": 79,
+    "bet_amount": 84,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 84,
+    "status": "not_matched"
+  },
+  {
+    "id": 30023,
+    "user_id": 100,
+    "bet_amount": 81,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 81,
+    "status": "not_matched"
+  },
+  {
+    "id": 30025,
+    "user_id": 4,
+    "bet_amount": 80,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 80,
+    "status": "not_matched"
+  },
+  {
+    "id": 30026,
+    "user_id": 51,
+    "bet_amount": 18,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 18,
+    "status": "not_matched"
+  },
+  {
+    "id": 30028,
+    "user_id": 51,
+    "bet_amount": 66,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 66,
+    "status": "not_matched"
+  },
+  {
+    "id": 30032,
+    "user_id": 72,
+    "bet_amount": 83,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 83,
+    "status": "not_matched"
+  },
+  {
+    "id": 30033,
+    "user_id": 78,
+    "bet_amount": 28,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 28,
+    "status": "not_matched"
+  },
+  {
+    "id": 30035,
+    "user_id": 15,
+    "bet_amount": 86,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 86,
+    "status": "not_matched"
+  },
+  {
+    "id": 30037,
+    "user_id": 38,
+    "bet_amount": 34,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 34,
+    "status": "not_matched"
+  },
+  {
+    "id": 30038,
+    "user_id": 77,
+    "bet_amount": 25,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 25,
+    "status": "not_matched"
+  },
+  {
+    "id": 30039,
+    "user_id": 85,
+    "bet_amount": 35,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 35,
+    "status": "not_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452176 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30000>>>>>>>>>>>>>>>>>
+{:id=>30000, :user_id=>85, :bet_amount=>70, :type=>:back, :odds=>2.5, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30003,
+    "user_id": 61,
+    "bet_amount": 62,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30013,
+    "user_id": 2,
+    "bet_amount": 47,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 39,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452196 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30000 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452240 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30002>>>>>>>>>>>>>>>>>
+{:id=>30002, :user_id=>27, :bet_amount=>20, :type=>:back, :odds=>2.6, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30019,
+    "user_id": 72,
+    "bet_amount": 72,
+    "type": "lay",
+    "odds": 2.6,
+    "unmatched_amount": 52,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452256 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30002 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452333 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30004>>>>>>>>>>>>>>>>>
+{:id=>30004, :user_id=>5, :bet_amount=>69, :type=>:back, :odds=>2.3, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30001,
+    "user_id": 18,
+    "bet_amount": 21,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30006,
+    "user_id": 95,
+    "bet_amount": 19,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30009,
+    "user_id": 69,
+    "bet_amount": 96,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 67,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452354 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30004 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452406 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30005>>>>>>>>>>>>>>>>>
+{:id=>30005, :user_id=>39, :bet_amount=>79, :type=>:back, :odds=>2.3, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30009,
+    "user_id": 69,
+    "bet_amount": 96,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30011,
+    "user_id": 19,
+    "bet_amount": 78,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 66,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452422 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30005 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452476 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30007>>>>>>>>>>>>>>>>>
+{:id=>30007, :user_id=>3, :bet_amount=>56, :type=>:back, :odds=>2.5, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30013,
+    "user_id": 2,
+    "bet_amount": 47,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30022,
+    "user_id": 79,
+    "bet_amount": 84,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 67,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452493 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30007 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452549 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30010>>>>>>>>>>>>>>>>>
+{:id=>30010, :user_id=>26, :bet_amount=>58, :type=>:back, :odds=>2.6, :unmatched_amount=>6, :status=>"partially_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30019,
+    "user_id": 72,
+    "bet_amount": 72,
+    "type": "lay",
+    "odds": 2.6,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452564 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30010 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452591 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30014>>>>>>>>>>>>>>>>>
+{:id=>30014, :user_id=>32, :bet_amount=>77, :type=>:back, :odds=>2.6, :unmatched_amount=>77, :status=>"not_matched"}
+above bet is matched with following bets (beow)
+[
+
+]
+I, [2021-02-09T00:02:01.452604 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30014 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452640 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30016>>>>>>>>>>>>>>>>>
+{:id=>30016, :user_id=>12, :bet_amount=>41, :type=>:back, :odds=>2.5, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30022,
+    "user_id": 79,
+    "bet_amount": 84,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 26,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452654 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30016 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452700 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30018>>>>>>>>>>>>>>>>>
+{:id=>30018, :user_id=>17, :bet_amount=>32, :type=>:back, :odds=>2.3, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30011,
+    "user_id": 19,
+    "bet_amount": 78,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 34,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452732 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30018 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452774 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30021>>>>>>>>>>>>>>>>>
+{:id=>30021, :user_id=>53, :bet_amount=>25, :type=>:back, :odds=>2.3, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30011,
+    "user_id": 19,
+    "bet_amount": 78,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 9,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452789 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30021 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452856 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30024>>>>>>>>>>>>>>>>>
+{:id=>30024, :user_id=>86, :bet_amount=>66, :type=>:back, :odds=>2.4, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30008,
+    "user_id": 51,
+    "bet_amount": 24,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30012,
+    "user_id": 81,
+    "bet_amount": 23,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30020,
+    "user_id": 4,
+    "bet_amount": 34,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 15,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452872 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30024 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.452954 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30027>>>>>>>>>>>>>>>>>
+{:id=>30027, :user_id=>91, :bet_amount=>49, :type=>:back, :odds=>2.3, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30011,
+    "user_id": 19,
+    "bet_amount": 78,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30015,
+    "user_id": 94,
+    "bet_amount": 17,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30017,
+    "user_id": 36,
+    "bet_amount": 18,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30026,
+    "user_id": 51,
+    "bet_amount": 18,
+    "type": "lay",
+    "odds": 2.3,
+    "unmatched_amount": 13,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.452970 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30027 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.453024 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30029>>>>>>>>>>>>>>>>>
+{:id=>30029, :user_id=>19, :bet_amount=>83, :type=>:back, :odds=>2.4, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30020,
+    "user_id": 4,
+    "bet_amount": 34,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30028,
+    "user_id": 51,
+    "bet_amount": 66,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30039,
+    "user_id": 85,
+    "bet_amount": 35,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 33,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.453040 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30029 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.453099 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30030>>>>>>>>>>>>>>>>>
+{:id=>30030, :user_id=>93, :bet_amount=>66, :type=>:back, :odds=>2.6, :unmatched_amount=>66, :status=>"not_matched"}
+above bet is matched with following bets (beow)
+[
+
+]
+I, [2021-02-09T00:02:01.453113 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30030 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.453157 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30031>>>>>>>>>>>>>>>>>
+{:id=>30031, :user_id=>81, :bet_amount=>95, :type=>:back, :odds=>2.5, :unmatched_amount=>0, :status=>"fully_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30022,
+    "user_id": 79,
+    "bet_amount": 84,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  },
+  {
+    "id": 30023,
+    "user_id": 100,
+    "bet_amount": 81,
+    "type": "lay",
+    "odds": 2.5,
+    "unmatched_amount": 12,
+    "status": "partially_matched"
+  }
+]
+I, [2021-02-09T00:02:01.453174 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30031 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.453211 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30034>>>>>>>>>>>>>>>>>
+{:id=>30034, :user_id=>24, :bet_amount=>84, :type=>:back, :odds=>2.4, :unmatched_amount=>51, :status=>"partially_matched"}
+above bet is matched with following bets (beow)
+[
+  {
+    "id": 30039,
+    "user_id": 85,
+    "bet_amount": 35,
+    "type": "lay",
+    "odds": 2.4,
+    "unmatched_amount": 0,
+    "status": "fully_matched"
+  }
+]
+I, [2021-02-09T00:02:01.453225 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30034 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.453268 #17564]  INFO -- : 
+
+
+<<<<<<<<<<<<<<Matching bet 30036>>>>>>>>>>>>>>>>>
+{:id=>30036, :user_id=>98, :bet_amount=>45, :type=>:back, :odds=>2.6, :unmatched_amount=>45, :status=>"not_matched"}
+above bet is matched with following bets (beow)
+[
+
+]
+I, [2021-02-09T00:02:01.453281 #17564]  INFO -- : 
+>>>>>>>>>>>>>>>>>Matching of bet 30036 is completed<<<<<<<<<<<<<<<<<<
+
+
+I, [2021-02-09T00:02:01.453294 #17564]  INFO -- : ------------Final matched bets-----------
+I, [2021-02-09T00:02:01.453585 #17564]  INFO -- : 
+   bet_id |m_bet_id | odds | matched_amount
+------------------------------
+[
+  "30000  |  30003  |  2.5  |  62",
+  "30000  |  30013  |  2.5  |  8",
+  "30002  |  30019  |  2.6  |  20",
+  "30004  |  30001  |  2.3  |  21",
+  "30004  |  30006  |  2.3  |  19",
+  "30004  |  30009  |  2.3  |  29",
+  "30005  |  30009  |  2.3  |  67",
+  "30005  |  30011  |  2.3  |  12",
+  "30007  |  30013  |  2.5  |  39",
+  "30007  |  30022  |  2.5  |  17",
+  "30010  |  30019  |  2.6  |  52",
+  "30016  |  30022  |  2.5  |  41",
+  "30018  |  30011  |  2.3  |  32",
+  "30021  |  30011  |  2.3  |  25",
+  "30024  |  30008  |  2.4  |  24",
+  "30024  |  30012  |  2.4  |  23",
+  "30024  |  30020  |  2.4  |  19",
+  "30027  |  30011  |  2.3  |  9",
+  "30027  |  30015  |  2.3  |  17",
+  "30027  |  30017  |  2.3  |  18",
+  "30027  |  30026  |  2.3  |  5",
+  "30029  |  30020  |  2.4  |  15",
+  "30029  |  30028  |  2.4  |  66",
+  "30029  |  30039  |  2.4  |  2",
+  "30031  |  30022  |  2.5  |  26",
+  "30031  |  30023  |  2.5  |  69",
+  "30034  |  30039  |  2.4  |  33"
+]
+I, [2021-02-09T00:02:01.453607 #17564]  INFO -- : ------------Bets after match-----------
+I, [2021-02-09T00:02:01.453824 #17564]  INFO -- : 
+   bet_id   |  odds   | status  | unmatched_amount
+------------------------------
+[
+  "30000    |   2.5    |   0    |   fully_matched",
+  "30002    |   2.6    |   0    |   fully_matched",
+  "30004    |   2.3    |   0    |   fully_matched",
+  "30005    |   2.3    |   0    |   fully_matched",
+  "30007    |   2.5    |   0    |   fully_matched",
+  "30016    |   2.5    |   0    |   fully_matched",
+  "30018    |   2.3    |   0    |   fully_matched",
+  "30021    |   2.3    |   0    |   fully_matched",
+  "30024    |   2.4    |   0    |   fully_matched",
+  "30027    |   2.3    |   0    |   fully_matched",
+  "30029    |   2.4    |   0    |   fully_matched",
+  "30031    |   2.5    |   0    |   fully_matched",
+  "30001    |   2.3    |   0    |   fully_matched",
+  "30003    |   2.5    |   0    |   fully_matched",
+  "30006    |   2.3    |   0    |   fully_matched",
+  "30008    |   2.4    |   0    |   fully_matched",
+  "30009    |   2.3    |   0    |   fully_matched",
+  "30011    |   2.3    |   0    |   fully_matched",
+  "30012    |   2.4    |   0    |   fully_matched",
+  "30013    |   2.5    |   0    |   fully_matched",
+  "30015    |   2.3    |   0    |   fully_matched",
+  "30017    |   2.3    |   0    |   fully_matched",
+  "30019    |   2.6    |   0    |   fully_matched",
+  "30020    |   2.4    |   0    |   fully_matched",
+  "30022    |   2.5    |   0    |   fully_matched",
+  "30028    |   2.4    |   0    |   fully_matched",
+  "30039    |   2.4    |   0    |   fully_matched",
+  "30014    |   2.6    |   77    |   not_matched",
+  "30030    |   2.6    |   66    |   not_matched",
+  "30036    |   2.6    |   45    |   not_matched",
+  "30025    |   2.5    |   80    |   not_matched",
+  "30032    |   2.3    |   83    |   not_matched",
+  "30033    |   2.5    |   28    |   not_matched",
+  "30035    |   2.3    |   86    |   not_matched",
+  "30037    |   2.3    |   34    |   not_matched",
+  "30038    |   2.3    |   25    |   not_matched",
+  "30010    |   2.6    |   6    |   partially_matched",
+  "30034    |   2.4    |   51    |   partially_matched",
+  "30023    |   2.5    |   12    |   partially_matched",
+  "30026    |   2.3    |   13    |   partially_matched"
+]

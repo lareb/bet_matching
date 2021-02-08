@@ -1,0 +1,1133 @@
+/usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb:54:in `require': cannot load such file -- ./feed_generate (LoadError)
+	from /usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:5:in `<main>'
+/usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb:54:in `require': cannot load such file -- ./feed_generate (LoadError)
+	from /usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:5:in `<main>'
+/home/rails/workspace/matching_bets/bet_matching.rb:12:in `delete': No such file or directory @ apply2files - ./logs/matching_results.log (Errno::ENOENT)
+	from /home/rails/workspace/matching_bets/bet_matching.rb:12:in `initialize'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:163:in `new'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:163:in `<main>'
+/home/rails/workspace/matching_bets/bet_matching.rb:12:in `delete': No such file or directory @ apply2files - logs/matching_results.log (Errno::ENOENT)
+	from /home/rails/workspace/matching_bets/bet_matching.rb:12:in `initialize'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:163:in `new'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:163:in `<main>'
+/home/rails/workspace/matching_bets/bet_matching.rb:12:in `delete': No such file or directory @ apply2files - logs/matching_results.log (Errno::ENOENT)
+	from /home/rails/workspace/matching_bets/bet_matching.rb:12:in `initialize'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:163:in `new'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:163:in `<main>'
+/home/rails/workspace/matching_bets/feed_generate.rb:68:in `generate_sameple': undefined local variable or method `path' for #<GenerateBets:0x000055cda4717f88> (NameError)
+Did you mean?  @path
+	from /home/rails/workspace/matching_bets/bet_matching.rb:157:in `all_matches'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:29:in `separate_bets'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:20:in `proccess'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:165:in `<main>'
+/home/rails/workspace/matching_bets/feed_generate.rb:67:in `delete': No such file or directory @ apply2files - /home/rails/workspace/matching_bets/logs/bets.log (Errno::ENOENT)
+	from /home/rails/workspace/matching_bets/feed_generate.rb:67:in `generate_sameple'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:157:in `all_matches'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:29:in `separate_bets'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:20:in `proccess'
+	from /home/rails/workspace/matching_bets/bet_matching.rb:165:in `<main>'
+"@@@@@@@@@@@@NL vs US baseball tournament@@@@@@@@@@@@@@@"
+"==========market_0================"
+----backs = 21 and --- lays = 19
+=================
+current bet type is => lay
+current odds is ===========2.4
+unmatched amount => 47
+Primary bet id = 30003
+Primary bet amount is FULLY_MATCHED with id/amount 30004/4
+Matched with bet is PARTIALLY_MATCHED with amount 4
+current bet type is => lay
+current odds is ===========2.3
+unmatched amount => 13
+Primary bet id = 30005
+Primary bet amount is FULLY_MATCHED with id/amount 30026/17
+Matched with bet is PARTIALLY_MATCHED with amount 17
+current bet type is => lay
+current odds is ===========2.5
+unmatched amount => 66
+Primary bet id = 30009
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30000/55
+Unmatched amount is = 11
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30006/87
+Matched with bet is PARTIALLY_MATCHED with amount 87
+current bet type is => lay
+current odds is ===========2.3
+unmatched amount => 71
+Primary bet id = 30010
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30026/17
+Unmatched amount is = 54
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30034/9
+Matched with bet is PARTIALLY_MATCHED with amount 9
+current bet type is => lay
+current odds is ===========2.3
+unmatched amount => 36
+Primary bet id = 30011
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30034/9
+Unmatched amount is = 27
+Matched with bet is also FULLY_MATCHED
+current bet type is => lay
+current odds is ===========2.4
+unmatched amount => 75
+Primary bet id = 30012
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30004/4
+Unmatched amount is = 71
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30008/9
+Matched with bet is PARTIALLY_MATCHED with amount 9
+current bet type is => lay
+current odds is ===========2.3
+unmatched amount => 92
+Primary bet id = 30014
+current bet type is => lay
+current odds is ===========2.4
+unmatched amount => 30
+Primary bet id = 30015
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30008/9
+Unmatched amount is = 21
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30018/72
+Matched with bet is PARTIALLY_MATCHED with amount 72
+current bet type is => lay
+current odds is ===========2.3
+unmatched amount => 48
+Primary bet id = 30016
+current bet type is => lay
+current odds is ===========2.6
+unmatched amount => 20
+Primary bet id = 30017
+Primary bet amount is FULLY_MATCHED with id/amount 30001/61
+Matched with bet is PARTIALLY_MATCHED with amount 61
+current bet type is => lay
+current odds is ===========2.4
+unmatched amount => 16
+Primary bet id = 30019
+Primary bet amount is FULLY_MATCHED with id/amount 30018/56
+Matched with bet is PARTIALLY_MATCHED with amount 56
+current bet type is => lay
+current odds is ===========2.4
+unmatched amount => 40
+Primary bet id = 30020
+Primary bet amount is FULLY_MATCHED with id/amount 30018/16
+Matched with bet is PARTIALLY_MATCHED with amount 16
+current bet type is => lay
+current odds is ===========2.3
+unmatched amount => 92
+Primary bet id = 30022
+current bet type is => lay
+current odds is ===========2.5
+unmatched amount => 47
+Primary bet id = 30025
+Primary bet amount is FULLY_MATCHED with id/amount 30006/40
+Matched with bet is PARTIALLY_MATCHED with amount 40
+current bet type is => lay
+current odds is ===========2.5
+unmatched amount => 77
+Primary bet id = 30027
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30006/40
+Unmatched amount is = 37
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30023/60
+Matched with bet is PARTIALLY_MATCHED with amount 60
+current bet type is => lay
+current odds is ===========2.5
+unmatched amount => 83
+Primary bet id = 30028
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30023/60
+Unmatched amount is = 23
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30033/14
+Matched with bet is PARTIALLY_MATCHED with amount 14
+current bet type is => lay
+current odds is ===========2.6
+unmatched amount => 75
+Primary bet id = 30031
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30001/61
+Unmatched amount is = 14
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30002/69
+Matched with bet is PARTIALLY_MATCHED with amount 69
+current bet type is => lay
+current odds is ===========2.4
+unmatched amount => 98
+Primary bet id = 30035
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30018/16
+Unmatched amount is = 82
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30029/32
+Unmatched amount is = 50
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30030/3
+Matched with bet is PARTIALLY_MATCHED with amount 3
+current bet type is => lay
+current odds is ===========2.6
+unmatched amount => 94
+Primary bet id = 30037
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30002/69
+Unmatched amount is = 25
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30007/7
+Matched with bet is PARTIALLY_MATCHED with amount 7
+"------------Final matched bets-----------"
+[
+    [ 0] "30003  |  30004  |  2.4  |  47",
+    [ 1] "30005  |  30026  |  2.3  |  13",
+    [ 2] "30009  |  30000  |  2.5  |  55",
+    [ 3] "30009  |  30006  |  2.5  |  11",
+    [ 4] "30010  |  30026  |  2.3  |  17",
+    [ 5] "30010  |  30034  |  2.3  |  54",
+    [ 6] "30011  |  30034  |  2.3  |  9",
+    [ 7] "30012  |  30004  |  2.4  |  4",
+    [ 8] "30012  |  30008  |  2.4  |  71",
+    [ 9] "30015  |  30008  |  2.4  |  9",
+    [10] "30015  |  30018  |  2.4  |  21",
+    [11] "30017  |  30001  |  2.6  |  20",
+    [12] "30019  |  30018  |  2.4  |  16",
+    [13] "30020  |  30018  |  2.4  |  40",
+    [14] "30025  |  30006  |  2.5  |  47",
+    [15] "30027  |  30006  |  2.5  |  40",
+    [16] "30027  |  30023  |  2.5  |  37",
+    [17] "30028  |  30023  |  2.5  |  60",
+    [18] "30028  |  30033  |  2.5  |  23",
+    [19] "30031  |  30001  |  2.6  |  61",
+    [20] "30031  |  30002  |  2.6  |  14",
+    [21] "30035  |  30018  |  2.4  |  16",
+    [22] "30035  |  30029  |  2.4  |  32",
+    [23] "30035  |  30030  |  2.4  |  50",
+    [24] "30037  |  30002  |  2.6  |  69",
+    [25] "30037  |  30007  |  2.6  |  25"
+]
+"------------Bets after match-----------"
+[
+    [ 0] "30003    |   2.4    |   0    |   fully_matched",
+    [ 1] "30005    |   2.3    |   0    |   fully_matched",
+    [ 2] "30009    |   2.5    |   0    |   fully_matched",
+    [ 3] "30010    |   2.3    |   0    |   fully_matched",
+    [ 4] "30012    |   2.4    |   0    |   fully_matched",
+    [ 5] "30015    |   2.4    |   0    |   fully_matched",
+    [ 6] "30017    |   2.6    |   0    |   fully_matched",
+    [ 7] "30019    |   2.4    |   0    |   fully_matched",
+    [ 8] "30020    |   2.4    |   0    |   fully_matched",
+    [ 9] "30025    |   2.5    |   0    |   fully_matched",
+    [10] "30027    |   2.5    |   0    |   fully_matched",
+    [11] "30028    |   2.5    |   0    |   fully_matched",
+    [12] "30031    |   2.6    |   0    |   fully_matched",
+    [13] "30035    |   2.4    |   0    |   fully_matched",
+    [14] "30037    |   2.6    |   0    |   fully_matched",
+    [15] "30000    |   2.5    |   0    |   fully_matched",
+    [16] "30001    |   2.6    |   0    |   fully_matched",
+    [17] "30002    |   2.6    |   0    |   fully_matched",
+    [18] "30004    |   2.4    |   0    |   fully_matched",
+    [19] "30006    |   2.5    |   0    |   fully_matched",
+    [20] "30008    |   2.4    |   0    |   fully_matched",
+    [21] "30018    |   2.4    |   0    |   fully_matched",
+    [22] "30023    |   2.5    |   0    |   fully_matched",
+    [23] "30026    |   2.3    |   0    |   fully_matched",
+    [24] "30029    |   2.4    |   0    |   fully_matched",
+    [25] "30034    |   2.3    |   0    |   fully_matched",
+    [26] "30014    |   2.3    |   92    |   not_matched",
+    [27] "30016    |   2.3    |   48    |   not_matched",
+    [28] "30022    |   2.3    |   92    |   not_matched",
+    [29] "30013    |   2.6    |   70    |   not_matched",
+    [30] "30021    |   2.6    |   64    |   not_matched",
+    [31] "30024    |   2.6    |   98    |   not_matched",
+    [32] "30032    |   2.6    |   69    |   not_matched",
+    [33] "30036    |   2.6    |   34    |   not_matched",
+    [34] "30038    |   2.6    |   70    |   not_matched",
+    [35] "30039    |   2.4    |   10    |   not_matched",
+    [36] "30011    |   2.3    |   27    |   partially_matched",
+    [37] "30007    |   2.6    |   7    |   partially_matched",
+    [38] "30030    |   2.4    |   3    |   partially_matched",
+    [39] "30033    |   2.5    |   14    |   partially_matched"
+]
+Total matches = 1, Total Markets = 1 and Total Bets = 40 ---------------0.003466383 secs
+"@@@@@@@@@@@@aus vs UAE cricket tournament@@@@@@@@@@@@@@@"
+"==========market_0================"
+----backs = 17 and --- lays = 23
+=================
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 36
+Primary bet id = 30002
+Primary bet amount is FULLY_MATCHED with id/amount 30022/27
+Matched with bet is PARTIALLY_MATCHED with amount 27
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 44
+Primary bet id = 30004
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30022/27
+Unmatched amount is = 17
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30025/46
+Matched with bet is PARTIALLY_MATCHED with amount 46
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 78
+Primary bet id = 30005
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30003/58
+Unmatched amount is = 20
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30012/49
+Matched with bet is PARTIALLY_MATCHED with amount 49
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 34
+Primary bet id = 30008
+Primary bet amount is FULLY_MATCHED with id/amount 30012/15
+Matched with bet is PARTIALLY_MATCHED with amount 15
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 94
+Primary bet id = 30009
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30025/46
+Unmatched amount is = 48
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30030/51
+Matched with bet is PARTIALLY_MATCHED with amount 51
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 91
+Primary bet id = 30010
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30001/54
+Unmatched amount is = 37
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30006/24
+Matched with bet is PARTIALLY_MATCHED with amount 24
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 18
+Primary bet id = 30011
+Primary bet amount is FULLY_MATCHED with id/amount 30030/33
+Matched with bet is PARTIALLY_MATCHED with amount 33
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 41
+Primary bet id = 30013
+Primary bet amount is FULLY_MATCHED with id/amount 30000/56
+Matched with bet is PARTIALLY_MATCHED with amount 56
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 17
+Primary bet id = 30015
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30012/15
+Unmatched amount is = 2
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30014/77
+Matched with bet is PARTIALLY_MATCHED with amount 77
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 84
+Primary bet id = 30016
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30014/77
+Unmatched amount is = 7
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30017/20
+Matched with bet is PARTIALLY_MATCHED with amount 20
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 97
+Primary bet id = 30018
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30006/24
+Unmatched amount is = 73
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30007/11
+Matched with bet is PARTIALLY_MATCHED with amount 11
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 45
+Primary bet id = 30020
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30017/20
+Unmatched amount is = 25
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30019/11
+Matched with bet is PARTIALLY_MATCHED with amount 11
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 29
+Primary bet id = 30021
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30007/11
+Unmatched amount is = 18
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30023/64
+Matched with bet is PARTIALLY_MATCHED with amount 64
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 19
+Primary bet id = 30026
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30019/11
+Unmatched amount is = 8
+Matched with bet is also FULLY_MATCHED
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 51
+Primary bet id = 30029
+Primary bet amount is FULLY_MATCHED with id/amount 30000/5
+Matched with bet is PARTIALLY_MATCHED with amount 5
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 17
+Primary bet id = 30032
+Primary bet amount is FULLY_MATCHED with id/amount 30030/16
+Matched with bet is PARTIALLY_MATCHED with amount 16
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 57
+Primary bet id = 30038
+"------------Final matched bets-----------"
+[
+    [ 0] "30002  |  30022  |  2.5  |  36",
+    [ 1] "30004  |  30022  |  2.5  |  27",
+    [ 2] "30004  |  30025  |  2.5  |  17",
+    [ 3] "30005  |  30003  |  2.3  |  58",
+    [ 4] "30005  |  30012  |  2.3  |  20",
+    [ 5] "30008  |  30012  |  2.3  |  34",
+    [ 6] "30009  |  30025  |  2.5  |  46",
+    [ 7] "30009  |  30030  |  2.5  |  48",
+    [ 8] "30010  |  30001  |  2.6  |  54",
+    [ 9] "30010  |  30006  |  2.6  |  37",
+    [10] "30011  |  30030  |  2.5  |  18",
+    [11] "30013  |  30000  |  2.4  |  41",
+    [12] "30015  |  30012  |  2.3  |  15",
+    [13] "30015  |  30014  |  2.3  |  2",
+    [14] "30016  |  30014  |  2.3  |  77",
+    [15] "30016  |  30017  |  2.3  |  7",
+    [16] "30018  |  30006  |  2.6  |  24",
+    [17] "30018  |  30007  |  2.6  |  73",
+    [18] "30020  |  30017  |  2.3  |  20",
+    [19] "30020  |  30019  |  2.3  |  25",
+    [20] "30021  |  30007  |  2.6  |  11",
+    [21] "30021  |  30023  |  2.6  |  18",
+    [22] "30026  |  30019  |  2.3  |  11",
+    [23] "30029  |  30000  |  2.4  |  51",
+    [24] "30032  |  30030  |  2.5  |  17"
+]
+"------------Bets after match-----------"
+[
+    [ 0] "30002    |   2.5    |   0    |   fully_matched",
+    [ 1] "30004    |   2.5    |   0    |   fully_matched",
+    [ 2] "30005    |   2.3    |   0    |   fully_matched",
+    [ 3] "30008    |   2.3    |   0    |   fully_matched",
+    [ 4] "30009    |   2.5    |   0    |   fully_matched",
+    [ 5] "30010    |   2.6    |   0    |   fully_matched",
+    [ 6] "30011    |   2.5    |   0    |   fully_matched",
+    [ 7] "30013    |   2.4    |   0    |   fully_matched",
+    [ 8] "30015    |   2.3    |   0    |   fully_matched",
+    [ 9] "30016    |   2.3    |   0    |   fully_matched",
+    [10] "30018    |   2.6    |   0    |   fully_matched",
+    [11] "30020    |   2.3    |   0    |   fully_matched",
+    [12] "30021    |   2.6    |   0    |   fully_matched",
+    [13] "30029    |   2.4    |   0    |   fully_matched",
+    [14] "30032    |   2.5    |   0    |   fully_matched",
+    [15] "30001    |   2.6    |   0    |   fully_matched",
+    [16] "30003    |   2.3    |   0    |   fully_matched",
+    [17] "30006    |   2.6    |   0    |   fully_matched",
+    [18] "30007    |   2.6    |   0    |   fully_matched",
+    [19] "30012    |   2.3    |   0    |   fully_matched",
+    [20] "30014    |   2.3    |   0    |   fully_matched",
+    [21] "30017    |   2.3    |   0    |   fully_matched",
+    [22] "30019    |   2.3    |   0    |   fully_matched",
+    [23] "30022    |   2.5    |   0    |   fully_matched",
+    [24] "30025    |   2.5    |   0    |   fully_matched",
+    [25] "30038    |   2.3    |   57    |   not_matched",
+    [26] "30024    |   2.6    |   85    |   not_matched",
+    [27] "30027    |   2.4    |   63    |   not_matched",
+    [28] "30028    |   2.6    |   68    |   not_matched",
+    [29] "30031    |   2.6    |   64    |   not_matched",
+    [30] "30033    |   2.5    |   41    |   not_matched",
+    [31] "30034    |   2.6    |   22    |   not_matched",
+    [32] "30035    |   2.5    |   47    |   not_matched",
+    [33] "30036    |   2.5    |   17    |   not_matched",
+    [34] "30037    |   2.5    |   33    |   not_matched",
+    [35] "30039    |   2.6    |   81    |   not_matched",
+    [36] "30026    |   2.3    |   8    |   partially_matched",
+    [37] "30000    |   2.4    |   5    |   partially_matched",
+    [38] "30023    |   2.6    |   64    |   partially_matched",
+    [39] "30030    |   2.5    |   16    |   partially_matched"
+]
+Total matches = 1, Total Markets = 1 and Total Bets = 40 ---------------0.004050971 secs
+"@@@@@@@@@@@@IT vs UAE hockey tournament@@@@@@@@@@@@@@@"
+"==========market_0================"
+----backs = 18 and --- lays = 22
+=================
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 92
+Primary bet id = 30001
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30000/25
+Unmatched amount is = 67
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30002/47
+Unmatched amount is = 20
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30011/45
+Matched with bet is PARTIALLY_MATCHED with amount 45
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 50
+Primary bet id = 30006
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30004/42
+Unmatched amount is = 8
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30007/58
+Matched with bet is PARTIALLY_MATCHED with amount 58
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 59
+Primary bet id = 30010
+Primary bet amount is FULLY_MATCHED with id/amount 30008/38
+Matched with bet is PARTIALLY_MATCHED with amount 38
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 46
+Primary bet id = 30012
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30011/45
+Unmatched amount is = 1
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30015/57
+Matched with bet is PARTIALLY_MATCHED with amount 57
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 63
+Primary bet id = 30014
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30003/24
+Unmatched amount is = 39
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30005/42
+Matched with bet is PARTIALLY_MATCHED with amount 42
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 28
+Primary bet id = 30016
+Primary bet amount is FULLY_MATCHED with id/amount 30007/30
+Matched with bet is PARTIALLY_MATCHED with amount 30
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 45
+Primary bet id = 30018
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30005/42
+Unmatched amount is = 3
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30020/61
+Matched with bet is PARTIALLY_MATCHED with amount 61
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 12
+Primary bet id = 30019
+Primary bet amount is FULLY_MATCHED with id/amount 30007/18
+Matched with bet is PARTIALLY_MATCHED with amount 18
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 70
+Primary bet id = 30021
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30008/38
+Unmatched amount is = 32
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30013/27
+Matched with bet is PARTIALLY_MATCHED with amount 27
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 80
+Primary bet id = 30023
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30007/18
+Unmatched amount is = 62
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30009/28
+Unmatched amount is = 34
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30017/12
+Unmatched amount is = 22
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30028/32
+Matched with bet is PARTIALLY_MATCHED with amount 32
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 89
+Primary bet id = 30025
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30028/32
+Unmatched amount is = 57
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30036/36
+Matched with bet is PARTIALLY_MATCHED with amount 36
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 93
+Primary bet id = 30026
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30036/36
+Unmatched amount is = 57
+Matched with bet is also FULLY_MATCHED
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 77
+Primary bet id = 30029
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 81
+Primary bet id = 30030
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30013/27
+Unmatched amount is = 54
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30027/27
+Matched with bet is PARTIALLY_MATCHED with amount 27
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 76
+Primary bet id = 30033
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30020/61
+Unmatched amount is = 15
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30034/63
+Matched with bet is PARTIALLY_MATCHED with amount 63
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 17
+Primary bet id = 30037
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 19
+Primary bet id = 30038
+Primary bet amount is FULLY_MATCHED with id/amount 30015/38
+Matched with bet is PARTIALLY_MATCHED with amount 38
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 57
+Primary bet id = 30039
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30015/38
+Unmatched amount is = 19
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30022/13
+Matched with bet is PARTIALLY_MATCHED with amount 13
+"------------Final matched bets-----------"
+[
+    [ 0] "30001  |  30000  |  2.4  |  25",
+    [ 1] "30001  |  30002  |  2.4  |  47",
+    [ 2] "30001  |  30011  |  2.4  |  20",
+    [ 3] "30006  |  30004  |  2.6  |  42",
+    [ 4] "30006  |  30007  |  2.6  |  8",
+    [ 5] "30010  |  30008  |  2.3  |  59",
+    [ 6] "30012  |  30011  |  2.4  |  45",
+    [ 7] "30012  |  30015  |  2.4  |  1",
+    [ 8] "30014  |  30003  |  2.5  |  24",
+    [ 9] "30014  |  30005  |  2.5  |  39",
+    [10] "30016  |  30007  |  2.6  |  28",
+    [11] "30018  |  30005  |  2.5  |  42",
+    [12] "30018  |  30020  |  2.5  |  3",
+    [13] "30019  |  30007  |  2.6  |  12",
+    [14] "30021  |  30008  |  2.3  |  38",
+    [15] "30021  |  30013  |  2.3  |  32",
+    [16] "30023  |  30007  |  2.6  |  18",
+    [17] "30023  |  30009  |  2.6  |  28",
+    [18] "30023  |  30017  |  2.6  |  12",
+    [19] "30023  |  30028  |  2.6  |  22",
+    [20] "30025  |  30028  |  2.6  |  32",
+    [21] "30025  |  30036  |  2.6  |  57",
+    [22] "30026  |  30036  |  2.6  |  36",
+    [23] "30030  |  30013  |  2.3  |  27",
+    [24] "30030  |  30027  |  2.3  |  54",
+    [25] "30033  |  30020  |  2.5  |  61",
+    [26] "30033  |  30034  |  2.5  |  15",
+    [27] "30038  |  30015  |  2.4  |  19",
+    [28] "30039  |  30015  |  2.4  |  38",
+    [29] "30039  |  30022  |  2.4  |  19"
+]
+"------------Bets after match-----------"
+[
+    [ 0] "30001    |   2.4    |   0    |   fully_matched",
+    [ 1] "30006    |   2.6    |   0    |   fully_matched",
+    [ 2] "30010    |   2.3    |   0    |   fully_matched",
+    [ 3] "30012    |   2.4    |   0    |   fully_matched",
+    [ 4] "30014    |   2.5    |   0    |   fully_matched",
+    [ 5] "30016    |   2.6    |   0    |   fully_matched",
+    [ 6] "30018    |   2.5    |   0    |   fully_matched",
+    [ 7] "30019    |   2.6    |   0    |   fully_matched",
+    [ 8] "30021    |   2.3    |   0    |   fully_matched",
+    [ 9] "30023    |   2.6    |   0    |   fully_matched",
+    [10] "30025    |   2.6    |   0    |   fully_matched",
+    [11] "30030    |   2.3    |   0    |   fully_matched",
+    [12] "30033    |   2.5    |   0    |   fully_matched",
+    [13] "30038    |   2.4    |   0    |   fully_matched",
+    [14] "30039    |   2.4    |   0    |   fully_matched",
+    [15] "30000    |   2.4    |   0    |   fully_matched",
+    [16] "30002    |   2.4    |   0    |   fully_matched",
+    [17] "30003    |   2.5    |   0    |   fully_matched",
+    [18] "30004    |   2.6    |   0    |   fully_matched",
+    [19] "30005    |   2.5    |   0    |   fully_matched",
+    [20] "30007    |   2.6    |   0    |   fully_matched",
+    [21] "30008    |   2.3    |   0    |   fully_matched",
+    [22] "30009    |   2.6    |   0    |   fully_matched",
+    [23] "30011    |   2.4    |   0    |   fully_matched",
+    [24] "30013    |   2.3    |   0    |   fully_matched",
+    [25] "30015    |   2.4    |   0    |   fully_matched",
+    [26] "30017    |   2.6    |   0    |   fully_matched",
+    [27] "30020    |   2.5    |   0    |   fully_matched",
+    [28] "30028    |   2.6    |   0    |   fully_matched",
+    [29] "30036    |   2.6    |   0    |   fully_matched",
+    [30] "30029    |   2.6    |   77    |   not_matched",
+    [31] "30037    |   2.6    |   17    |   not_matched",
+    [32] "30024    |   2.4    |   27    |   not_matched",
+    [33] "30031    |   2.4    |   28    |   not_matched",
+    [34] "30032    |   2.4    |   15    |   not_matched",
+    [35] "30035    |   2.4    |   96    |   not_matched",
+    [36] "30026    |   2.6    |   57    |   partially_matched",
+    [37] "30022    |   2.4    |   13    |   partially_matched",
+    [38] "30027    |   2.3    |   27    |   partially_matched",
+    [39] "30034    |   2.5    |   63    |   partially_matched"
+]
+Total matches = 1, Total Markets = 1 and Total Bets = 40 ---------------0.005645227 secs
+"@@@@@@@@@@@@SA vs ZIM hockey tournament@@@@@@@@@@@@@@@"
+"==========market_0================"
+----backs = 15 and --- lays = 25
+=================
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 40
+Primary bet id = 30000
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30002/14
+Unmatched amount is = 26
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30012/74
+Matched with bet is PARTIALLY_MATCHED with amount 74
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 78
+Primary bet id = 30003
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30012/74
+Unmatched amount is = 4
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30026/68
+Matched with bet is PARTIALLY_MATCHED with amount 68
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 63
+Primary bet id = 30005
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30001/25
+Unmatched amount is = 38
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30014/12
+Unmatched amount is = 26
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30015/19
+Unmatched amount is = 7
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30018/92
+Matched with bet is PARTIALLY_MATCHED with amount 92
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 45
+Primary bet id = 30006
+Primary bet amount is FULLY_MATCHED with id/amount 30026/23
+Matched with bet is PARTIALLY_MATCHED with amount 23
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 67
+Primary bet id = 30007
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30009/53
+Unmatched amount is = 14
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30010/39
+Matched with bet is PARTIALLY_MATCHED with amount 39
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 39
+Primary bet id = 30011
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30026/23
+Unmatched amount is = 16
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30031/83
+Matched with bet is PARTIALLY_MATCHED with amount 83
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 95
+Primary bet id = 30016
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30010/39
+Unmatched amount is = 56
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30024/18
+Matched with bet is PARTIALLY_MATCHED with amount 18
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 19
+Primary bet id = 30017
+Primary bet amount is FULLY_MATCHED with id/amount 30031/64
+Matched with bet is PARTIALLY_MATCHED with amount 64
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 97
+Primary bet id = 30020
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30004/20
+Unmatched amount is = 77
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30008/3
+Matched with bet is PARTIALLY_MATCHED with amount 3
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 41
+Primary bet id = 30023
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30008/3
+Unmatched amount is = 38
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30013/42
+Matched with bet is PARTIALLY_MATCHED with amount 42
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 66
+Primary bet id = 30027
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30031/64
+Unmatched amount is = 2
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30033/41
+Matched with bet is PARTIALLY_MATCHED with amount 41
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 85
+Primary bet id = 30029
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30033/41
+Unmatched amount is = 44
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30034/33
+Matched with bet is PARTIALLY_MATCHED with amount 33
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 91
+Primary bet id = 30036
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30024/18
+Unmatched amount is = 73
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30035/73
+Matched with bet is also FULLY_MATCHED
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 63
+Primary bet id = 30038
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30034/33
+Unmatched amount is = 30
+Matched with bet is also FULLY_MATCHED
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 81
+Primary bet id = 30039
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30013/42
+Unmatched amount is = 39
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30021/17
+Unmatched amount is = 22
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30022/2
+Matched with bet is PARTIALLY_MATCHED with amount 2
+"------------Final matched bets-----------"
+[
+    [ 0] "30000  |  30002  |  2.5  |  14",
+    [ 1] "30000  |  30012  |  2.5  |  26",
+    [ 2] "30003  |  30012  |  2.5  |  74",
+    [ 3] "30003  |  30026  |  2.5  |  4",
+    [ 4] "30005  |  30001  |  2.6  |  25",
+    [ 5] "30005  |  30014  |  2.6  |  12",
+    [ 6] "30005  |  30015  |  2.6  |  19",
+    [ 7] "30005  |  30018  |  2.6  |  7",
+    [ 8] "30006  |  30026  |  2.5  |  45",
+    [ 9] "30007  |  30009  |  2.4  |  53",
+    [10] "30007  |  30010  |  2.4  |  14",
+    [11] "30011  |  30026  |  2.5  |  23",
+    [12] "30011  |  30031  |  2.5  |  16",
+    [13] "30016  |  30010  |  2.4  |  39",
+    [14] "30016  |  30024  |  2.4  |  56",
+    [15] "30017  |  30031  |  2.5  |  19",
+    [16] "30020  |  30004  |  2.3  |  20",
+    [17] "30020  |  30008  |  2.3  |  77",
+    [18] "30023  |  30008  |  2.3  |  3",
+    [19] "30023  |  30013  |  2.3  |  38",
+    [20] "30027  |  30031  |  2.5  |  64",
+    [21] "30027  |  30033  |  2.5  |  2",
+    [22] "30029  |  30033  |  2.5  |  41",
+    [23] "30029  |  30034  |  2.5  |  44",
+    [24] "30036  |  30024  |  2.4  |  18",
+    [25] "30036  |  30035  |  2.4  |  73",
+    [26] "30038  |  30034  |  2.5  |  33",
+    [27] "30039  |  30013  |  2.3  |  42",
+    [28] "30039  |  30021  |  2.3  |  17",
+    [29] "30039  |  30022  |  2.3  |  22"
+]
+"------------Bets after match-----------"
+[
+    [ 0] "30000    |   2.5    |   0    |   fully_matched",
+    [ 1] "30003    |   2.5    |   0    |   fully_matched",
+    [ 2] "30005    |   2.6    |   0    |   fully_matched",
+    [ 3] "30006    |   2.5    |   0    |   fully_matched",
+    [ 4] "30007    |   2.4    |   0    |   fully_matched",
+    [ 5] "30011    |   2.5    |   0    |   fully_matched",
+    [ 6] "30016    |   2.4    |   0    |   fully_matched",
+    [ 7] "30017    |   2.5    |   0    |   fully_matched",
+    [ 8] "30020    |   2.3    |   0    |   fully_matched",
+    [ 9] "30023    |   2.3    |   0    |   fully_matched",
+    [10] "30027    |   2.5    |   0    |   fully_matched",
+    [11] "30029    |   2.5    |   0    |   fully_matched",
+    [12] "30036    |   2.4    |   0    |   fully_matched",
+    [13] "30039    |   2.3    |   0    |   fully_matched",
+    [14] "30001    |   2.6    |   0    |   fully_matched",
+    [15] "30002    |   2.5    |   0    |   fully_matched",
+    [16] "30004    |   2.3    |   0    |   fully_matched",
+    [17] "30008    |   2.3    |   0    |   fully_matched",
+    [18] "30009    |   2.4    |   0    |   fully_matched",
+    [19] "30010    |   2.4    |   0    |   fully_matched",
+    [20] "30012    |   2.5    |   0    |   fully_matched",
+    [21] "30013    |   2.3    |   0    |   fully_matched",
+    [22] "30014    |   2.6    |   0    |   fully_matched",
+    [23] "30015    |   2.6    |   0    |   fully_matched",
+    [24] "30021    |   2.3    |   0    |   fully_matched",
+    [25] "30024    |   2.4    |   0    |   fully_matched",
+    [26] "30026    |   2.5    |   0    |   fully_matched",
+    [27] "30031    |   2.5    |   0    |   fully_matched",
+    [28] "30033    |   2.5    |   0    |   fully_matched",
+    [29] "30034    |   2.5    |   0    |   fully_matched",
+    [30] "30035    |   2.4    |   0    |   fully_matched",
+    [31] "30019    |   2.6    |   55    |   not_matched",
+    [32] "30025    |   2.6    |   35    |   not_matched",
+    [33] "30028    |   2.3    |   41    |   not_matched",
+    [34] "30030    |   2.3    |   79    |   not_matched",
+    [35] "30032    |   2.3    |   15    |   not_matched",
+    [36] "30037    |   2.4    |   97    |   not_matched",
+    [37] "30038    |   2.5    |   30    |   partially_matched",
+    [38] "30018    |   2.6    |   92    |   partially_matched",
+    [39] "30022    |   2.3    |   2    |   partially_matched"
+]
+Total matches = 1, Total Markets = 1 and Total Bets = 40 ---------------0.003613127 secs
+"@@@@@@@@@@@@pak vs ENG baseball tournament@@@@@@@@@@@@@@@"
+"==========market_0================"
+----backs = 19 and --- lays = 21
+=================
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 75
+Primary bet id = 30001
+Primary bet amount is FULLY_MATCHED with id/amount 30034/9
+Matched with bet is PARTIALLY_MATCHED with amount 9
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 96
+Primary bet id = 30002
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30000/30
+Unmatched amount is = 66
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30003/2
+Matched with bet is PARTIALLY_MATCHED with amount 2
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 73
+Primary bet id = 30004
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30003/2
+Unmatched amount is = 71
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30011/39
+Unmatched amount is = 32
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30014/25
+Unmatched amount is = 7
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30027/37
+Matched with bet is PARTIALLY_MATCHED with amount 37
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 68
+Primary bet id = 30005
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30027/37
+Unmatched amount is = 31
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30028/17
+Unmatched amount is = 14
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30029/61
+Matched with bet is PARTIALLY_MATCHED with amount 61
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 12
+Primary bet id = 30008
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30034/9
+Unmatched amount is = 3
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30039/84
+Matched with bet is PARTIALLY_MATCHED with amount 84
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 54
+Primary bet id = 30009
+Primary bet amount is FULLY_MATCHED with id/amount 30006/17
+Matched with bet is PARTIALLY_MATCHED with amount 17
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 93
+Primary bet id = 30010
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30039/84
+Unmatched amount is = 9
+Matched with bet is also FULLY_MATCHED
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 86
+Primary bet id = 30012
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30013/59
+Unmatched amount is = 27
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30021/23
+Unmatched amount is = 4
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30022/51
+Matched with bet is PARTIALLY_MATCHED with amount 51
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 15
+Primary bet id = 30015
+Primary bet amount is FULLY_MATCHED with id/amount 30006/2
+Matched with bet is PARTIALLY_MATCHED with amount 2
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 15
+Primary bet id = 30016
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 81
+Primary bet id = 30017
+current bet type is => back
+current odds is ===========2.4
+unmatched amount => 94
+Primary bet id = 30018
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30022/51
+Unmatched amount is = 43
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30023/22
+Unmatched amount is = 21
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30024/78
+Matched with bet is PARTIALLY_MATCHED with amount 78
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 54
+Primary bet id = 30019
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30006/2
+Unmatched amount is = 52
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30007/35
+Unmatched amount is = 17
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30026/35
+Matched with bet is PARTIALLY_MATCHED with amount 35
+current bet type is => back
+current odds is ===========2.5
+unmatched amount => 64
+Primary bet id = 30020
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30026/35
+Unmatched amount is = 29
+Matched with bet is also FULLY_MATCHED
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 76
+Primary bet id = 30025
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30029/61
+Unmatched amount is = 15
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30030/36
+Matched with bet is PARTIALLY_MATCHED with amount 36
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 94
+Primary bet id = 30031
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 34
+Primary bet id = 30036
+Primary bet amount is FULLY_MATCHED with id/amount 30030/2
+Matched with bet is PARTIALLY_MATCHED with amount 2
+current bet type is => back
+current odds is ===========2.3
+unmatched amount => 83
+Primary bet id = 30037
+current bet type is => back
+current odds is ===========2.6
+unmatched amount => 87
+Primary bet id = 30038
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30030/2
+Unmatched amount is = 85
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is PARTIALLY_MATCHED with id/amount 30032/59
+Unmatched amount is = 26
+Matched with bet is also FULLY_MATCHED
+Primary bet amount is FULLY_MATCHED with id/amount 30035/12
+Matched with bet is PARTIALLY_MATCHED with amount 12
+"------------Final matched bets-----------"
+[
+    [ 0] "30001  |  30034  |  2.3  |  75",
+    [ 1] "30002  |  30000  |  2.6  |  30",
+    [ 2] "30002  |  30003  |  2.6  |  66",
+    [ 3] "30004  |  30003  |  2.6  |  2",
+    [ 4] "30004  |  30011  |  2.6  |  39",
+    [ 5] "30004  |  30014  |  2.6  |  25",
+    [ 6] "30004  |  30027  |  2.6  |  7",
+    [ 7] "30005  |  30027  |  2.6  |  37",
+    [ 8] "30005  |  30028  |  2.6  |  17",
+    [ 9] "30005  |  30029  |  2.6  |  14",
+    [10] "30008  |  30034  |  2.3  |  9",
+    [11] "30008  |  30039  |  2.3  |  3",
+    [12] "30009  |  30006  |  2.5  |  54",
+    [13] "30010  |  30039  |  2.3  |  84",
+    [14] "30012  |  30013  |  2.4  |  59",
+    [15] "30012  |  30021  |  2.4  |  23",
+    [16] "30012  |  30022  |  2.4  |  4",
+    [17] "30015  |  30006  |  2.5  |  15",
+    [18] "30018  |  30022  |  2.4  |  51",
+    [19] "30018  |  30023  |  2.4  |  22",
+    [20] "30018  |  30024  |  2.4  |  21",
+    [21] "30019  |  30006  |  2.5  |  2",
+    [22] "30019  |  30007  |  2.5  |  35",
+    [23] "30019  |  30026  |  2.5  |  17",
+    [24] "30020  |  30026  |  2.5  |  35",
+    [25] "30025  |  30029  |  2.6  |  61",
+    [26] "30025  |  30030  |  2.6  |  15",
+    [27] "30036  |  30030  |  2.6  |  34",
+    [28] "30038  |  30030  |  2.6  |  2",
+    [29] "30038  |  30032  |  2.6  |  59",
+    [30] "30038  |  30035  |  2.6  |  26"
+]
+"------------Bets after match-----------"
+[
+    [ 0] "30001    |   2.3    |   0    |   fully_matched",
+    [ 1] "30002    |   2.6    |   0    |   fully_matched",
+    [ 2] "30004    |   2.6    |   0    |   fully_matched",
+    [ 3] "30005    |   2.6    |   0    |   fully_matched",
+    [ 4] "30008    |   2.3    |   0    |   fully_matched",
+    [ 5] "30009    |   2.5    |   0    |   fully_matched",
+    [ 6] "30012    |   2.4    |   0    |   fully_matched",
+    [ 7] "30015    |   2.5    |   0    |   fully_matched",
+    [ 8] "30018    |   2.4    |   0    |   fully_matched",
+    [ 9] "30019    |   2.5    |   0    |   fully_matched",
+    [10] "30025    |   2.6    |   0    |   fully_matched",
+    [11] "30036    |   2.6    |   0    |   fully_matched",
+    [12] "30038    |   2.6    |   0    |   fully_matched",
+    [13] "30000    |   2.6    |   0    |   fully_matched",
+    [14] "30003    |   2.6    |   0    |   fully_matched",
+    [15] "30006    |   2.5    |   0    |   fully_matched",
+    [16] "30007    |   2.5    |   0    |   fully_matched",
+    [17] "30011    |   2.6    |   0    |   fully_matched",
+    [18] "30013    |   2.4    |   0    |   fully_matched",
+    [19] "30014    |   2.6    |   0    |   fully_matched",
+    [20] "30021    |   2.4    |   0    |   fully_matched",
+    [21] "30022    |   2.4    |   0    |   fully_matched",
+    [22] "30023    |   2.4    |   0    |   fully_matched",
+    [23] "30026    |   2.5    |   0    |   fully_matched",
+    [24] "30027    |   2.6    |   0    |   fully_matched",
+    [25] "30028    |   2.6    |   0    |   fully_matched",
+    [26] "30029    |   2.6    |   0    |   fully_matched",
+    [27] "30030    |   2.6    |   0    |   fully_matched",
+    [28] "30032    |   2.6    |   0    |   fully_matched",
+    [29] "30034    |   2.3    |   0    |   fully_matched",
+    [30] "30039    |   2.3    |   0    |   fully_matched",
+    [31] "30016    |   2.3    |   15    |   not_matched",
+    [32] "30017    |   2.3    |   81    |   not_matched",
+    [33] "30031    |   2.3    |   94    |   not_matched",
+    [34] "30037    |   2.3    |   83    |   not_matched",
+    [35] "30033    |   2.4    |   15    |   not_matched",
+    [36] "30010    |   2.3    |   9    |   partially_matched",
+    [37] "30020    |   2.5    |   29    |   partially_matched",
+    [38] "30024    |   2.4    |   78    |   partially_matched",
+    [39] "30035    |   2.6    |   12    |   partially_matched"
+]
+Total matches = 1, Total Markets = 1 and Total Bets = 40 ---------------0.004849137 secs
